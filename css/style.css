@@ -1,0 +1,50 @@
+.header{
+	min-height: 150px;
+	background-color: cyan;
+} 
+.wrapper{
+	overflow: hidden;
+	/*border: 4px solid darkred;*/
+
+
+}
+.width{
+	border: 6.6px solid blue;
+	width: 24%;
+	float: left;
+}
+.contact{
+	min-height: 200px;
+	background-color: yellow;
+}
+.blog{
+	min-height: 200px;
+   background-color: darkblue;
+}
+.red{
+	min-height: 200px;
+	background-color: red;
+}
+.green{
+	min-height: 200px;
+	background-color: green;
+}
+.vashoman{
+	float: left;
+	border: 16.3px solid darkcyan;
+}
+.blue{
+	min-height: 250px;
+	width: 50%;
+	background-color: blue;
+}
+.orange{
+	min-height: 250px;
+	width: 45%;
+	background-color: orange;
+}
+.footer{
+	clear: both;
+	min-height: 100px;
+	background-color: black;
+}
